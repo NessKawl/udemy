@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\OneDrive\\\u00C1rea de Trabalho\\udemy\\C# OOP\\projetos\\Course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D13BF5C-8243-41E3-A3B8-0067AC97149C}|Course.csproj|c:\\users\\marco\\onedrive\\\u00E1rea de trabalho\\udemy\\c# oop\\projetos\\course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D13BF5C-8243-41E3-A3B8-0067AC97149C}|Course.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\\u00C1rea de Trabalho\\udemy\\C# OOP\\projetos\\Course\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\\u00C1rea de Trabalho\\udemy\\C# OOP\\projetos\\Course\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwCMAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T21:48:04.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
