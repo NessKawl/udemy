@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex5-valor-peca\bin\Debug\net8.0\ex5-valor-peca.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex5-valor-peca\bin\Debug\net8.0\ex5-valor-peca.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex5-valor-peca\bin\Debug\net8.0\ex5-valor-peca.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex5-valor-peca\bin\Debug\net8.0\ex5-valor-peca.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex5-valor-peca\bin\Debug\net8.0\ex5-valor-peca.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex5-valor-peca\obj\Debug\net8.0\ex5-valor-peca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex5-valor-peca\obj\Debug\net8.0\ex5-valor-peca.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex5-valor-peca\obj\Debug\net8.0\ex5-valor-peca.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex5-valor-peca\obj\Debug\net8.0\ex5-valor-peca.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex5-valor-peca\obj\Debug\net8.0\ex5-valor-peca.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex5-valor-peca\obj\Debug\net8.0\ex5-valor-peca.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex5-valor-peca\obj\Debug\net8.0\refint\ex5-valor-peca.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex5-valor-peca\obj\Debug\net8.0\ex5-valor-peca.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex5-valor-peca\obj\Debug\net8.0\ex5-valor-peca.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex5-valor-peca\obj\Debug\net8.0\ref\ex5-valor-peca.dll

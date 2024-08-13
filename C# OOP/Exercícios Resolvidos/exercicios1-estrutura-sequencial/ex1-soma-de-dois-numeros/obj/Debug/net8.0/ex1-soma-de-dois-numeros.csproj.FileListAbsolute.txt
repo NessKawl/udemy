@@ -1,0 +1,14 @@
+C:\Users\marco\source\repos\ex1-soma-de-dois-numeros\bin\Debug\net8.0\ex1-soma-de-dois-numeros.exe
+C:\Users\marco\source\repos\ex1-soma-de-dois-numeros\bin\Debug\net8.0\ex1-soma-de-dois-numeros.deps.json
+C:\Users\marco\source\repos\ex1-soma-de-dois-numeros\bin\Debug\net8.0\ex1-soma-de-dois-numeros.runtimeconfig.json
+C:\Users\marco\source\repos\ex1-soma-de-dois-numeros\bin\Debug\net8.0\ex1-soma-de-dois-numeros.dll
+C:\Users\marco\source\repos\ex1-soma-de-dois-numeros\bin\Debug\net8.0\ex1-soma-de-dois-numeros.pdb
+C:\Users\marco\source\repos\ex1-soma-de-dois-numeros\obj\Debug\net8.0\ex1-soma-de-dois-numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\ex1-soma-de-dois-numeros\obj\Debug\net8.0\ex1-soma-de-dois-numeros.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\ex1-soma-de-dois-numeros\obj\Debug\net8.0\ex1-soma-de-dois-numeros.AssemblyInfo.cs
+C:\Users\marco\source\repos\ex1-soma-de-dois-numeros\obj\Debug\net8.0\ex1-soma-de-dois-numeros.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\ex1-soma-de-dois-numeros\obj\Debug\net8.0\ex1-soma-de-dois-numeros.dll
+C:\Users\marco\source\repos\ex1-soma-de-dois-numeros\obj\Debug\net8.0\refint\ex1-soma-de-dois-numeros.dll
+C:\Users\marco\source\repos\ex1-soma-de-dois-numeros\obj\Debug\net8.0\ex1-soma-de-dois-numeros.pdb
+C:\Users\marco\source\repos\ex1-soma-de-dois-numeros\obj\Debug\net8.0\ex1-soma-de-dois-numeros.genruntimeconfig.cache
+C:\Users\marco\source\repos\ex1-soma-de-dois-numeros\obj\Debug\net8.0\ref\ex1-soma-de-dois-numeros.dll

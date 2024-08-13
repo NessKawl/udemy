@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex2-area-circulo\bin\Debug\net8.0\ex2-area-circulo.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex2-area-circulo\bin\Debug\net8.0\ex2-area-circulo.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex2-area-circulo\bin\Debug\net8.0\ex2-area-circulo.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex2-area-circulo\bin\Debug\net8.0\ex2-area-circulo.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex2-area-circulo\bin\Debug\net8.0\ex2-area-circulo.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex2-area-circulo\obj\Debug\net8.0\ex2-area-circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex2-area-circulo\obj\Debug\net8.0\ex2-area-circulo.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex2-area-circulo\obj\Debug\net8.0\ex2-area-circulo.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex2-area-circulo\obj\Debug\net8.0\ex2-area-circulo.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex2-area-circulo\obj\Debug\net8.0\ex2-area-circulo.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex2-area-circulo\obj\Debug\net8.0\ex2-area-circulo.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex2-area-circulo\obj\Debug\net8.0\refint\ex2-area-circulo.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex2-area-circulo\obj\Debug\net8.0\ex2-area-circulo.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex2-area-circulo\obj\Debug\net8.0\ex2-area-circulo.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex2-area-circulo\obj\Debug\net8.0\ref\ex2-area-circulo.dll

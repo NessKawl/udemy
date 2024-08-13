@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex6-areas\bin\Debug\net8.0\ex6-areas.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex6-areas\bin\Debug\net8.0\ex6-areas.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex6-areas\bin\Debug\net8.0\ex6-areas.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex6-areas\bin\Debug\net8.0\ex6-areas.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex6-areas\bin\Debug\net8.0\ex6-areas.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex6-areas\obj\Debug\net8.0\ex6-areas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex6-areas\obj\Debug\net8.0\ex6-areas.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex6-areas\obj\Debug\net8.0\ex6-areas.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex6-areas\obj\Debug\net8.0\ex6-areas.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex6-areas\obj\Debug\net8.0\ex6-areas.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex6-areas\obj\Debug\net8.0\ex6-areas.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex6-areas\obj\Debug\net8.0\refint\ex6-areas.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex6-areas\obj\Debug\net8.0\ex6-areas.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex6-areas\obj\Debug\net8.0\ex6-areas.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex6-areas\obj\Debug\net8.0\ref\ex6-areas.dll

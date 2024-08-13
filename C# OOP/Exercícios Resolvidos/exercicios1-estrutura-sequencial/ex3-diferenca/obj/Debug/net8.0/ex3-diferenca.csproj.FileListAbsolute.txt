@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex3-diferenca\bin\Debug\net8.0\ex3-diferenca.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex3-diferenca\bin\Debug\net8.0\ex3-diferenca.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex3-diferenca\bin\Debug\net8.0\ex3-diferenca.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex3-diferenca\bin\Debug\net8.0\ex3-diferenca.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex3-diferenca\bin\Debug\net8.0\ex3-diferenca.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex3-diferenca\obj\Debug\net8.0\ex3-diferenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex3-diferenca\obj\Debug\net8.0\ex3-diferenca.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex3-diferenca\obj\Debug\net8.0\ex3-diferenca.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex3-diferenca\obj\Debug\net8.0\ex3-diferenca.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex3-diferenca\obj\Debug\net8.0\ex3-diferenca.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex3-diferenca\obj\Debug\net8.0\ex3-diferenca.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex3-diferenca\obj\Debug\net8.0\refint\ex3-diferenca.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex3-diferenca\obj\Debug\net8.0\ex3-diferenca.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex3-diferenca\obj\Debug\net8.0\ex3-diferenca.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios1-estrutura-sequencial\ex3-diferenca\obj\Debug\net8.0\ref\ex3-diferenca.dll
