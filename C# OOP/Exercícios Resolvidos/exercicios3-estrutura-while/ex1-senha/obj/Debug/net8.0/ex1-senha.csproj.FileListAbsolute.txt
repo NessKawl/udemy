@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex1-senha\bin\Debug\net8.0\ex1-senha.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex1-senha\bin\Debug\net8.0\ex1-senha.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex1-senha\bin\Debug\net8.0\ex1-senha.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex1-senha\bin\Debug\net8.0\ex1-senha.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex1-senha\bin\Debug\net8.0\ex1-senha.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex1-senha\obj\Debug\net8.0\ex1-senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex1-senha\obj\Debug\net8.0\ex1-senha.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex1-senha\obj\Debug\net8.0\ex1-senha.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex1-senha\obj\Debug\net8.0\ex1-senha.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex1-senha\obj\Debug\net8.0\ex1-senha.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex1-senha\obj\Debug\net8.0\ex1-senha.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex1-senha\obj\Debug\net8.0\refint\ex1-senha.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex1-senha\obj\Debug\net8.0\ex1-senha.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex1-senha\obj\Debug\net8.0\ex1-senha.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex1-senha\obj\Debug\net8.0\ref\ex1-senha.dll

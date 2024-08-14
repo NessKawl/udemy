@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex2-coordenadas\bin\Debug\net8.0\ex2-coordenadas.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex2-coordenadas\bin\Debug\net8.0\ex2-coordenadas.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex2-coordenadas\bin\Debug\net8.0\ex2-coordenadas.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex2-coordenadas\bin\Debug\net8.0\ex2-coordenadas.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex2-coordenadas\bin\Debug\net8.0\ex2-coordenadas.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex2-coordenadas\obj\Debug\net8.0\ex2-coordenadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex2-coordenadas\obj\Debug\net8.0\ex2-coordenadas.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex2-coordenadas\obj\Debug\net8.0\ex2-coordenadas.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex2-coordenadas\obj\Debug\net8.0\ex2-coordenadas.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex2-coordenadas\obj\Debug\net8.0\ex2-coordenadas.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex2-coordenadas\obj\Debug\net8.0\ex2-coordenadas.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex2-coordenadas\obj\Debug\net8.0\refint\ex2-coordenadas.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex2-coordenadas\obj\Debug\net8.0\ex2-coordenadas.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex2-coordenadas\obj\Debug\net8.0\ex2-coordenadas.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex2-coordenadas\obj\Debug\net8.0\ref\ex2-coordenadas.dll

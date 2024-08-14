@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex3-combustivel\bin\Debug\net8.0\ex3-combustivel.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex3-combustivel\bin\Debug\net8.0\ex3-combustivel.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex3-combustivel\bin\Debug\net8.0\ex3-combustivel.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex3-combustivel\bin\Debug\net8.0\ex3-combustivel.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex3-combustivel\bin\Debug\net8.0\ex3-combustivel.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex3-combustivel\obj\Debug\net8.0\ex3-combustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex3-combustivel\obj\Debug\net8.0\ex3-combustivel.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex3-combustivel\obj\Debug\net8.0\ex3-combustivel.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex3-combustivel\obj\Debug\net8.0\ex3-combustivel.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex3-combustivel\obj\Debug\net8.0\ex3-combustivel.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex3-combustivel\obj\Debug\net8.0\ex3-combustivel.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex3-combustivel\obj\Debug\net8.0\refint\ex3-combustivel.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex3-combustivel\obj\Debug\net8.0\ex3-combustivel.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex3-combustivel\obj\Debug\net8.0\ex3-combustivel.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios3-estrutura-while\ex3-combustivel\obj\Debug\net8.0\ref\ex3-combustivel.dll
