@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex1-numero-negativo\bin\Debug\net8.0\ex1-numero-negativo.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex1-numero-negativo\bin\Debug\net8.0\ex1-numero-negativo.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex1-numero-negativo\bin\Debug\net8.0\ex1-numero-negativo.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex1-numero-negativo\bin\Debug\net8.0\ex1-numero-negativo.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex1-numero-negativo\bin\Debug\net8.0\ex1-numero-negativo.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex1-numero-negativo\obj\Debug\net8.0\ex1-numero-negativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex1-numero-negativo\obj\Debug\net8.0\ex1-numero-negativo.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex1-numero-negativo\obj\Debug\net8.0\ex1-numero-negativo.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex1-numero-negativo\obj\Debug\net8.0\ex1-numero-negativo.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex1-numero-negativo\obj\Debug\net8.0\ex1-numero-negativo.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex1-numero-negativo\obj\Debug\net8.0\ex1-numero-negativo.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex1-numero-negativo\obj\Debug\net8.0\refint\ex1-numero-negativo.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex1-numero-negativo\obj\Debug\net8.0\ex1-numero-negativo.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex1-numero-negativo\obj\Debug\net8.0\ex1-numero-negativo.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex1-numero-negativo\obj\Debug\net8.0\ref\ex1-numero-negativo.dll

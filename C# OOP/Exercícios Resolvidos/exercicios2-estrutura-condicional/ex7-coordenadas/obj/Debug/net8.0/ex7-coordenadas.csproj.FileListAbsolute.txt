@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex7-coordenadas\bin\Debug\net8.0\ex7-coordenadas.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex7-coordenadas\bin\Debug\net8.0\ex7-coordenadas.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex7-coordenadas\bin\Debug\net8.0\ex7-coordenadas.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex7-coordenadas\bin\Debug\net8.0\ex7-coordenadas.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex7-coordenadas\bin\Debug\net8.0\ex7-coordenadas.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex7-coordenadas\obj\Debug\net8.0\ex7-coordenadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex7-coordenadas\obj\Debug\net8.0\ex7-coordenadas.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex7-coordenadas\obj\Debug\net8.0\ex7-coordenadas.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex7-coordenadas\obj\Debug\net8.0\ex7-coordenadas.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex7-coordenadas\obj\Debug\net8.0\ex7-coordenadas.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex7-coordenadas\obj\Debug\net8.0\ex7-coordenadas.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex7-coordenadas\obj\Debug\net8.0\refint\ex7-coordenadas.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex7-coordenadas\obj\Debug\net8.0\ex7-coordenadas.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex7-coordenadas\obj\Debug\net8.0\ex7-coordenadas.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex7-coordenadas\obj\Debug\net8.0\ref\ex7-coordenadas.dll

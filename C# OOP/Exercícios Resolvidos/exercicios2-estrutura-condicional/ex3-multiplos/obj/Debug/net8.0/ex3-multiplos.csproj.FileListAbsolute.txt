@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex3-multiplos\bin\Debug\net8.0\ex3-multiplos.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex3-multiplos\bin\Debug\net8.0\ex3-multiplos.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex3-multiplos\bin\Debug\net8.0\ex3-multiplos.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex3-multiplos\bin\Debug\net8.0\ex3-multiplos.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex3-multiplos\bin\Debug\net8.0\ex3-multiplos.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex3-multiplos\obj\Debug\net8.0\ex3-multiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex3-multiplos\obj\Debug\net8.0\ex3-multiplos.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex3-multiplos\obj\Debug\net8.0\ex3-multiplos.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex3-multiplos\obj\Debug\net8.0\ex3-multiplos.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex3-multiplos\obj\Debug\net8.0\ex3-multiplos.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex3-multiplos\obj\Debug\net8.0\ex3-multiplos.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex3-multiplos\obj\Debug\net8.0\refint\ex3-multiplos.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex3-multiplos\obj\Debug\net8.0\ex3-multiplos.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex3-multiplos\obj\Debug\net8.0\ex3-multiplos.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex3-multiplos\obj\Debug\net8.0\ref\ex3-multiplos.dll

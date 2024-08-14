@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex8-imposto\obj\Debug\net8.0\ex8-imposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex8-imposto\obj\Debug\net8.0\ex8-imposto.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex8-imposto\obj\Debug\net8.0\ex8-imposto.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex8-imposto\obj\Debug\net8.0\ex8-imposto.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex8-imposto\obj\Debug\net8.0\ex8-imposto.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex8-imposto\bin\Debug\net8.0\ex8-imposto.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex8-imposto\bin\Debug\net8.0\ex8-imposto.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex8-imposto\bin\Debug\net8.0\ex8-imposto.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex8-imposto\bin\Debug\net8.0\ex8-imposto.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex8-imposto\bin\Debug\net8.0\ex8-imposto.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex8-imposto\obj\Debug\net8.0\ex8-imposto.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex8-imposto\obj\Debug\net8.0\refint\ex8-imposto.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex8-imposto\obj\Debug\net8.0\ex8-imposto.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex8-imposto\obj\Debug\net8.0\ex8-imposto.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex8-imposto\obj\Debug\net8.0\ref\ex8-imposto.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ex2-numero-par/1.0.0": {
+        "runtime": {
+          "ex2-numero-par.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex2-numero-par/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex2-numero-par\bin\Debug\net8.0\ex2-numero-par.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex2-numero-par\bin\Debug\net8.0\ex2-numero-par.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex2-numero-par\bin\Debug\net8.0\ex2-numero-par.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex2-numero-par\bin\Debug\net8.0\ex2-numero-par.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex2-numero-par\bin\Debug\net8.0\ex2-numero-par.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex2-numero-par\obj\Debug\net8.0\ex2-numero-par.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex2-numero-par\obj\Debug\net8.0\ex2-numero-par.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex2-numero-par\obj\Debug\net8.0\ex2-numero-par.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex2-numero-par\obj\Debug\net8.0\ex2-numero-par.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex2-numero-par\obj\Debug\net8.0\ex2-numero-par.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex2-numero-par\obj\Debug\net8.0\ex2-numero-par.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex2-numero-par\obj\Debug\net8.0\refint\ex2-numero-par.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex2-numero-par\obj\Debug\net8.0\ex2-numero-par.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex2-numero-par\obj\Debug\net8.0\ex2-numero-par.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios2-estrutura-condicional\ex2-numero-par\obj\Debug\net8.0\ref\ex2-numero-par.dll
