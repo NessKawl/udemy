@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex6-divisores\bin\Debug\net8.0\ex6-divisores.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex6-divisores\bin\Debug\net8.0\ex6-divisores.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex6-divisores\bin\Debug\net8.0\ex6-divisores.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex6-divisores\bin\Debug\net8.0\ex6-divisores.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex6-divisores\bin\Debug\net8.0\ex6-divisores.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex6-divisores\obj\Debug\net8.0\ex6-divisores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex6-divisores\obj\Debug\net8.0\ex6-divisores.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex6-divisores\obj\Debug\net8.0\ex6-divisores.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex6-divisores\obj\Debug\net8.0\ex6-divisores.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex6-divisores\obj\Debug\net8.0\ex6-divisores.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex6-divisores\obj\Debug\net8.0\ex6-divisores.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex6-divisores\obj\Debug\net8.0\refint\ex6-divisores.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex6-divisores\obj\Debug\net8.0\ex6-divisores.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex6-divisores\obj\Debug\net8.0\ex6-divisores.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex6-divisores\obj\Debug\net8.0\ref\ex6-divisores.dll

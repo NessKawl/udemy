@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex2-intervalo\bin\Debug\net8.0\ex2-intervalo.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex2-intervalo\bin\Debug\net8.0\ex2-intervalo.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex2-intervalo\bin\Debug\net8.0\ex2-intervalo.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex2-intervalo\bin\Debug\net8.0\ex2-intervalo.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex2-intervalo\bin\Debug\net8.0\ex2-intervalo.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex2-intervalo\obj\Debug\net8.0\ex2-intervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex2-intervalo\obj\Debug\net8.0\ex2-intervalo.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex2-intervalo\obj\Debug\net8.0\ex2-intervalo.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex2-intervalo\obj\Debug\net8.0\ex2-intervalo.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex2-intervalo\obj\Debug\net8.0\ex2-intervalo.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex2-intervalo\obj\Debug\net8.0\ex2-intervalo.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex2-intervalo\obj\Debug\net8.0\refint\ex2-intervalo.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex2-intervalo\obj\Debug\net8.0\ex2-intervalo.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex2-intervalo\obj\Debug\net8.0\ex2-intervalo.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex2-intervalo\obj\Debug\net8.0\ref\ex2-intervalo.dll

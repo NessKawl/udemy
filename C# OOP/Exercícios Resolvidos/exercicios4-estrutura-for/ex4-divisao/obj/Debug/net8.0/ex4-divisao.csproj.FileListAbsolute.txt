@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex4-divisao\bin\Debug\net8.0\ex4-divisao.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex4-divisao\bin\Debug\net8.0\ex4-divisao.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex4-divisao\bin\Debug\net8.0\ex4-divisao.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex4-divisao\bin\Debug\net8.0\ex4-divisao.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex4-divisao\bin\Debug\net8.0\ex4-divisao.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex4-divisao\obj\Debug\net8.0\ex4-divisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex4-divisao\obj\Debug\net8.0\ex4-divisao.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex4-divisao\obj\Debug\net8.0\ex4-divisao.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex4-divisao\obj\Debug\net8.0\ex4-divisao.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex4-divisao\obj\Debug\net8.0\ex4-divisao.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex4-divisao\obj\Debug\net8.0\ex4-divisao.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex4-divisao\obj\Debug\net8.0\refint\ex4-divisao.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex4-divisao\obj\Debug\net8.0\ex4-divisao.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex4-divisao\obj\Debug\net8.0\ex4-divisao.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex4-divisao\obj\Debug\net8.0\ref\ex4-divisao.dll

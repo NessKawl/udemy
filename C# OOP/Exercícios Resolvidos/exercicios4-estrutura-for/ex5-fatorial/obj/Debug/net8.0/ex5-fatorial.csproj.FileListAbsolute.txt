@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex5-fatorial\bin\Debug\net8.0\ex5-fatorial.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex5-fatorial\bin\Debug\net8.0\ex5-fatorial.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex5-fatorial\bin\Debug\net8.0\ex5-fatorial.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex5-fatorial\bin\Debug\net8.0\ex5-fatorial.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex5-fatorial\bin\Debug\net8.0\ex5-fatorial.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex5-fatorial\obj\Debug\net8.0\ex5-fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex5-fatorial\obj\Debug\net8.0\ex5-fatorial.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex5-fatorial\obj\Debug\net8.0\ex5-fatorial.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex5-fatorial\obj\Debug\net8.0\ex5-fatorial.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex5-fatorial\obj\Debug\net8.0\ex5-fatorial.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex5-fatorial\obj\Debug\net8.0\ex5-fatorial.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex5-fatorial\obj\Debug\net8.0\refint\ex5-fatorial.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex5-fatorial\obj\Debug\net8.0\ex5-fatorial.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex5-fatorial\obj\Debug\net8.0\ex5-fatorial.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex5-fatorial\obj\Debug\net8.0\ref\ex5-fatorial.dll

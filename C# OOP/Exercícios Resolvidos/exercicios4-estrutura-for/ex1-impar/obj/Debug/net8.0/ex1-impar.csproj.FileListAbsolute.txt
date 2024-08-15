@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex1-impar\bin\Debug\net8.0\ex1-impar.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex1-impar\bin\Debug\net8.0\ex1-impar.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex1-impar\bin\Debug\net8.0\ex1-impar.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex1-impar\bin\Debug\net8.0\ex1-impar.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex1-impar\bin\Debug\net8.0\ex1-impar.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex1-impar\obj\Debug\net8.0\ex1-impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex1-impar\obj\Debug\net8.0\ex1-impar.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex1-impar\obj\Debug\net8.0\ex1-impar.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex1-impar\obj\Debug\net8.0\ex1-impar.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex1-impar\obj\Debug\net8.0\ex1-impar.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex1-impar\obj\Debug\net8.0\ex1-impar.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex1-impar\obj\Debug\net8.0\refint\ex1-impar.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex1-impar\obj\Debug\net8.0\ex1-impar.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex1-impar\obj\Debug\net8.0\ex1-impar.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios4-estrutura-for\ex1-impar\obj\Debug\net8.0\ref\ex1-impar.dll
