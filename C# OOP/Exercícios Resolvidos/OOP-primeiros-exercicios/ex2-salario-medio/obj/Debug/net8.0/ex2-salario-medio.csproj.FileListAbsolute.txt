@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex2-salario-medio\bin\Debug\net8.0\ex2-salario-medio.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex2-salario-medio\bin\Debug\net8.0\ex2-salario-medio.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex2-salario-medio\bin\Debug\net8.0\ex2-salario-medio.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex2-salario-medio\bin\Debug\net8.0\ex2-salario-medio.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex2-salario-medio\bin\Debug\net8.0\ex2-salario-medio.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex2-salario-medio\obj\Debug\net8.0\ex2-salario-medio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex2-salario-medio\obj\Debug\net8.0\ex2-salario-medio.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex2-salario-medio\obj\Debug\net8.0\ex2-salario-medio.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex2-salario-medio\obj\Debug\net8.0\ex2-salario-medio.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex2-salario-medio\obj\Debug\net8.0\ex2-salario-medio.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex2-salario-medio\obj\Debug\net8.0\ex2-salario-medio.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex2-salario-medio\obj\Debug\net8.0\refint\ex2-salario-medio.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex2-salario-medio\obj\Debug\net8.0\ex2-salario-medio.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex2-salario-medio\obj\Debug\net8.0\ex2-salario-medio.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex2-salario-medio\obj\Debug\net8.0\ref\ex2-salario-medio.dll

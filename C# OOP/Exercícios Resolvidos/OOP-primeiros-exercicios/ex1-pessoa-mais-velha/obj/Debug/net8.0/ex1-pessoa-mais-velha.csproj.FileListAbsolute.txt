@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex1-pessoa-mais-velha\bin\Debug\net8.0\ex1-pessoa-mais-velha.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex1-pessoa-mais-velha\bin\Debug\net8.0\ex1-pessoa-mais-velha.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex1-pessoa-mais-velha\bin\Debug\net8.0\ex1-pessoa-mais-velha.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex1-pessoa-mais-velha\bin\Debug\net8.0\ex1-pessoa-mais-velha.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex1-pessoa-mais-velha\bin\Debug\net8.0\ex1-pessoa-mais-velha.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex1-pessoa-mais-velha\obj\Debug\net8.0\ex1-pessoa-mais-velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex1-pessoa-mais-velha\obj\Debug\net8.0\ex1-pessoa-mais-velha.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex1-pessoa-mais-velha\obj\Debug\net8.0\ex1-pessoa-mais-velha.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex1-pessoa-mais-velha\obj\Debug\net8.0\ex1-pessoa-mais-velha.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex1-pessoa-mais-velha\obj\Debug\net8.0\ex1-pessoa-mais-velha.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex1-pessoa-mais-velha\obj\Debug\net8.0\ex1-pessoa-mais-velha.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex1-pessoa-mais-velha\obj\Debug\net8.0\refint\ex1-pessoa-mais-velha.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex1-pessoa-mais-velha\obj\Debug\net8.0\ex1-pessoa-mais-velha.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex1-pessoa-mais-velha\obj\Debug\net8.0\ex1-pessoa-mais-velha.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\OOP-primeiros-exercicios\ex1-pessoa-mais-velha\obj\Debug\net8.0\ref\ex1-pessoa-mais-velha.dll
