@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex2-salario\obj\Debug\net8.0\ex2-salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex2-salario\obj\Debug\net8.0\ex2-salario.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex2-salario\obj\Debug\net8.0\ex2-salario.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex2-salario\obj\Debug\net8.0\ex2-salario.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex2-salario\obj\Debug\net8.0\ex2-salario.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex2-salario\bin\Debug\net8.0\ex2-salario.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex2-salario\bin\Debug\net8.0\ex2-salario.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex2-salario\bin\Debug\net8.0\ex2-salario.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex2-salario\bin\Debug\net8.0\ex2-salario.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex2-salario\bin\Debug\net8.0\ex2-salario.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex2-salario\obj\Debug\net8.0\ex2-salario.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex2-salario\obj\Debug\net8.0\refint\ex2-salario.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex2-salario\obj\Debug\net8.0\ex2-salario.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex2-salario\obj\Debug\net8.0\ex2-salario.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex2-salario\obj\Debug\net8.0\ref\ex2-salario.dll
