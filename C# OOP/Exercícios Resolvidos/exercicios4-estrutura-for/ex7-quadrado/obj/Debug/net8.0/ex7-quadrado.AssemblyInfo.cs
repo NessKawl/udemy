@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ex7-quadrado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fdaf269432f69a8e93f85571493ae3308d0c596")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9703479ffe681e7462d332c212584bfcbbc0ec4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ex7-quadrado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ex7-quadrado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
