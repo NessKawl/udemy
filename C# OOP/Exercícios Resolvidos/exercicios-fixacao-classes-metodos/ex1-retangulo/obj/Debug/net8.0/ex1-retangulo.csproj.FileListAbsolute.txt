@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex1-retangulo\bin\Debug\net8.0\ex1-retangulo.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex1-retangulo\bin\Debug\net8.0\ex1-retangulo.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex1-retangulo\bin\Debug\net8.0\ex1-retangulo.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex1-retangulo\bin\Debug\net8.0\ex1-retangulo.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex1-retangulo\bin\Debug\net8.0\ex1-retangulo.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex1-retangulo\obj\Debug\net8.0\ex1-retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex1-retangulo\obj\Debug\net8.0\ex1-retangulo.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex1-retangulo\obj\Debug\net8.0\ex1-retangulo.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex1-retangulo\obj\Debug\net8.0\ex1-retangulo.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex1-retangulo\obj\Debug\net8.0\ex1-retangulo.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex1-retangulo\obj\Debug\net8.0\ex1-retangulo.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex1-retangulo\obj\Debug\net8.0\refint\ex1-retangulo.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex1-retangulo\obj\Debug\net8.0\ex1-retangulo.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex1-retangulo\obj\Debug\net8.0\ex1-retangulo.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex1-retangulo\obj\Debug\net8.0\ref\ex1-retangulo.dll

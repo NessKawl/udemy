@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex3-nota-aluno\bin\Debug\net8.0\ex3-nota-aluno.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex3-nota-aluno\bin\Debug\net8.0\ex3-nota-aluno.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex3-nota-aluno\bin\Debug\net8.0\ex3-nota-aluno.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex3-nota-aluno\bin\Debug\net8.0\ex3-nota-aluno.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex3-nota-aluno\bin\Debug\net8.0\ex3-nota-aluno.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex3-nota-aluno\obj\Debug\net8.0\ex3-nota-aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex3-nota-aluno\obj\Debug\net8.0\ex3-nota-aluno.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex3-nota-aluno\obj\Debug\net8.0\ex3-nota-aluno.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex3-nota-aluno\obj\Debug\net8.0\ex3-nota-aluno.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex3-nota-aluno\obj\Debug\net8.0\ex3-nota-aluno.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex3-nota-aluno\obj\Debug\net8.0\ex3-nota-aluno.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex3-nota-aluno\obj\Debug\net8.0\refint\ex3-nota-aluno.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex3-nota-aluno\obj\Debug\net8.0\ex3-nota-aluno.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex3-nota-aluno\obj\Debug\net8.0\ex3-nota-aluno.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicios-fixacao-classes-metodos\ex3-nota-aluno\obj\Debug\net8.0\ref\ex3-nota-aluno.dll

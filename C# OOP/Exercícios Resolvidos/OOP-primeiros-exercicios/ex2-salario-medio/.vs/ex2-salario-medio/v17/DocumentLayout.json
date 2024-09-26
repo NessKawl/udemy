@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\OneDrive\\\u00C1rea de Trabalho\\udemy\\C# OOP\\Exerc\u00EDcios Resolvidos\\OOP-primeiros-exercicios\\ex2-salario-medio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADA62DC-C937-457C-9C12-DD9E58512EB6}|ex2-salario-medio.csproj|c:\\users\\marco\\onedrive\\\u00E1rea de trabalho\\udemy\\c# oop\\exerc\u00EDcios resolvidos\\oop-primeiros-exercicios\\ex2-salario-medio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADA62DC-C937-457C-9C12-DD9E58512EB6}|ex2-salario-medio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADA62DC-C937-457C-9C12-DD9E58512EB6}|ex2-salario-medio.csproj|c:\\users\\marco\\onedrive\\\u00E1rea de trabalho\\udemy\\c# oop\\exerc\u00EDcios resolvidos\\oop-primeiros-exercicios\\ex2-salario-medio\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADA62DC-C937-457C-9C12-DD9E58512EB6}|ex2-salario-medio.csproj|solutionrelative:funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\\u00C1rea de Trabalho\\udemy\\C# OOP\\Exerc\u00EDcios Resolvidos\\OOP-primeiros-exercicios\\ex2-salario-medio\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Funcionario.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\\u00C1rea de Trabalho\\udemy\\C# OOP\\Exerc\u00EDcios Resolvidos\\OOP-primeiros-exercicios\\ex2-salario-medio\\Funcionario.cs",
+              "RelativeToolTip": "Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T22:42:32.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\\u00C1rea de Trabalho\\udemy\\C# OOP\\Exerc\u00EDcios Resolvidos\\OOP-primeiros-exercicios\\ex2-salario-medio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\\u00C1rea de Trabalho\\udemy\\C# OOP\\Exerc\u00EDcios Resolvidos\\OOP-primeiros-exercicios\\ex2-salario-medio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T22:38:28.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

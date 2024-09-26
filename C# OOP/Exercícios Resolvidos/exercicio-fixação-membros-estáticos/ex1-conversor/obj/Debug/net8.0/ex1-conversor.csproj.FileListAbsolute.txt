@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicio-fixação-membros-estáticos\ex1-conversor\bin\Debug\net8.0\ex1-conversor.exe
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicio-fixação-membros-estáticos\ex1-conversor\bin\Debug\net8.0\ex1-conversor.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicio-fixação-membros-estáticos\ex1-conversor\bin\Debug\net8.0\ex1-conversor.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicio-fixação-membros-estáticos\ex1-conversor\bin\Debug\net8.0\ex1-conversor.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicio-fixação-membros-estáticos\ex1-conversor\bin\Debug\net8.0\ex1-conversor.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicio-fixação-membros-estáticos\ex1-conversor\obj\Debug\net8.0\ex1-conversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicio-fixação-membros-estáticos\ex1-conversor\obj\Debug\net8.0\ex1-conversor.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicio-fixação-membros-estáticos\ex1-conversor\obj\Debug\net8.0\ex1-conversor.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicio-fixação-membros-estáticos\ex1-conversor\obj\Debug\net8.0\ex1-conversor.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicio-fixação-membros-estáticos\ex1-conversor\obj\Debug\net8.0\ex1-conversor.sourcelink.json
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicio-fixação-membros-estáticos\ex1-conversor\obj\Debug\net8.0\ex1-conversor.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicio-fixação-membros-estáticos\ex1-conversor\obj\Debug\net8.0\refint\ex1-conversor.dll
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicio-fixação-membros-estáticos\ex1-conversor\obj\Debug\net8.0\ex1-conversor.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicio-fixação-membros-estáticos\ex1-conversor\obj\Debug\net8.0\ex1-conversor.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\udemy\C# OOP\Exercícios Resolvidos\exercicio-fixação-membros-estáticos\ex1-conversor\obj\Debug\net8.0\ref\ex1-conversor.dll
